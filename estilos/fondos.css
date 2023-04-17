@@ -1,0 +1,10 @@
+body{
+    background-image: url(../imagenes/purple-frog.jpg); }
+    #cabecera{
+        background-image: url(../imagenes/kyogre.webp); background-size: contain;}
+        #indice{
+            background-image: url(../imagenes/rajoy.jpeg); }
+            #contenido{
+                background-image: url(../imagenes/fish-fosh.jpg); background-size: contain;}
+                #piedepagina{
+                    background-image: url(../imagenes/Czechoslovakia.webp); }
